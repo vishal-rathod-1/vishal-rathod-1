@@ -1,6 +1,3 @@
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=vishal-rathod-1)
-
-
 # 👋 Hello, I'm Vishal Rathod
 
 🔐 Passionate about **DevSecOps** and **Cybersecurity**, focused on securing modern software systems.  
